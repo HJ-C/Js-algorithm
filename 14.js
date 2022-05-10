@@ -1,3 +1,4 @@
+(1)
 function solution(s){  
     let answer='';
     let max = Number.MIN_SAFE_INTEGER;
